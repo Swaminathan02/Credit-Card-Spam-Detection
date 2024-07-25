@@ -10,5 +10,6 @@ Generaly its a number with a decimal point upto 10 places
 Amount: The transferred Amount
 
 To run the code,
-Download the CSV file -> take the location of the file -> And,
+As the CSV file is 44mb i have made it a Zip file, So,
+Download the Zip file -> Extract it -> Take the CSV file -> Take the location of the file -> And,
 Add that location in the place of 'file' variable present in the medical-insurance-ml.ipynb file.
